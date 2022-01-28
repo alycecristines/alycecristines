@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Alyce 👋
+
+
+- 🔭 I’m currently working as Software Enginner with the mission of making wellbeing universal at Gympass
+- 📫 How to reach me: 
+[![LinkedIn](https://img.shields.io/badge/-alycecristines-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alycecristines/)
+[![Twitter](https://img.shields.io/badge/-alycecristines-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/alycecristines)
+[![Gmail](https://img.shields.io/badge/-alycecristines-red?style=flat&logo=Gmail&logoColor=white)](mailto:alyce.cristine.s@gmail.com)
 
 
 ### ⚙️ GitHub Statistics
