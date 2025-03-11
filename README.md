@@ -1,7 +1,7 @@
 ### Hi there, I'm Alyce 👋
 
 
-- 🔭 I’m currently working as a Software Engineer with the mission of making wellbeing universal at Gympass
+- 🔭 I’m currently working as a Software Engineer with the mission of making wellbeing universal at Wellhub
 - 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/-alycecristines-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alycecristines/)
 [![Twitter](https://img.shields.io/badge/-alycecristines-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/alycecristines)
